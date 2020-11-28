@@ -1,0 +1,44 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.header,.hero,.body,.bar,.footer{
+	margin-bottom: 30px;
+	background-color: #d35d6e;
+
+}
+h1{
+	text-align: center;
+	color: #fff;
+}
+h5{
+	color: #fff;
+}
+.my-border{
+	border:5px solid green;
+}
+.box1{
+	margin: 30px 0;
+	min-height: 100px;
+	background-color: red;
+	font-size: 35px;
+	color: #fff;
+	text-align: center;
+}
+.box2{
+	margin: 30px 0;
+	min-height: 100px;
+	background-color: green;
+	font-size: 35px;
+	color: #fff;
+	text-align: center;
+}
+.box3{
+	margin: 30px 0;
+	text-align: center;
+	min-height: 100px;
+	background-color: blue;
+	font-size: 35px;
+	color: #fff;
+}
